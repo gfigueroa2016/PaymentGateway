@@ -1,0 +1,26 @@
+[
+    {
+      "Account": "403178XXXXXX1617",
+      "AccountToken": "4c26fbfed4e89459c9ccb3704075961c8",
+      "CustomerName": "Juan Perez",
+      "IsDefault": false,
+      "Status": 108,
+      "ZipCode": null
+    },
+    {
+      "Account": "424242XXXXXX4242",
+      "AccountToken": "48907492ae7cd4180afa3b075abbb1d98",
+      "CustomerName": "Juan Perez",
+      "IsDefault": false,
+      "Status": 108,
+      "ZipCode": null
+    },
+    {
+      "Account": "424242XXXXXX4242",
+      "AccountToken": "4d801fda6011e411babc88e644320a056",
+      "CustomerName": "Juan Perez",
+      "IsDefault": false,
+      "Status": 108,
+      "ZipCode": null
+    }
+]

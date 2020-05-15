@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments\bin\Debug\netcoreapp3.1\DynamicsPayments.Domain.deps.json
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments\bin\Debug\netcoreapp3.1\DynamicsPayments.Domain.dll
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments\obj\Debug\netcoreapp3.1\DynamicsPayments.Domain.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments\obj\Debug\netcoreapp3.1\DynamicsPayments.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments\obj\Debug\netcoreapp3.1\DynamicsPayments.Domain.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments\obj\Debug\netcoreapp3.1\DynamicsPayments.Domain.csproj.CoreCompileInputs.cache

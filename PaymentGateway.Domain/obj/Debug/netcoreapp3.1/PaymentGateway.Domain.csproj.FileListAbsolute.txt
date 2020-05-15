@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Domain\bin\Debug\netcoreapp3.1\PaymentGateway.Domain.deps.json
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Domain\bin\Debug\netcoreapp3.1\PaymentGateway.Domain.dll
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Domain\bin\Debug\netcoreapp3.1\PaymentGateway.Domain.pdb
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Domain\obj\Debug\netcoreapp3.1\PaymentGateway.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Domain\obj\Debug\netcoreapp3.1\PaymentGateway.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Domain\obj\Debug\netcoreapp3.1\PaymentGateway.Domain.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Domain\obj\Debug\netcoreapp3.1\PaymentGateway.Domain.dll
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Domain\obj\Debug\netcoreapp3.1\PaymentGateway.Domain.pdb

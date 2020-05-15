@@ -1,0 +1,9 @@
+[
+  {
+    "Amount": "1337.17",
+    "CustomerId": "b5b05534-9263-448c-a69e-0bbd8b3eb90e",
+    "Invoice": "b5b05534-9263-448c-a69e-0bbd8b3eb90u",
+    "Tax": "337.17",
+    "Transaction_Detail": "Payment Transaction Test"
+  }
+]

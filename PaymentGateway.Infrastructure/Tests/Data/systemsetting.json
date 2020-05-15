@@ -1,0 +1,11 @@
+[
+  {
+    "AccountId": "8b0b8cf1eb402ew7a00",
+    "Active": true,
+    "ClientId": "MTQ5OTY2NjQ3Mg==",
+    "CustomerId": "b5b05534-9263-448c-a69e-0bbd8b3eb90u",
+    "Secret": "AgilisaTechnologies",
+    "PaymentGatewayUrl": "http://vmdataprueba.cloudapp.net/WebApi/APaymentTokenApi/",
+    "StoreUrl": "https://localhost:44358/payment/confirmation/"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Account": "403178XXXXXX1617",
+    "AccountToken": "4c26fbfed4e89459c9ccb3704075961c8",
+    "IDTransaction": "1766",
+    "BatchCode": "005",
+    "AcquirerName": "Bridge Pay ",
+    "Status": "Anulada - Pendiente Cierre",
+    "CardHolderName": "Juan Perez",
+    "AuditNumber": null,
+    "ResponseCode": "00",
+    "DesicionResponseCode": "100",
+    "Message": "",
+    "AuthNumber": "OK2584",
+    "HostDate": "0605",
+    "HostTime": "010311",
+    "Reference_Code": "2684179"
+  }
+]

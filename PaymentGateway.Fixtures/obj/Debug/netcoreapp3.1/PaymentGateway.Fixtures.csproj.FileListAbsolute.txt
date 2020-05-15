@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\bin\Debug\netcoreapp3.1\PaymentGateway.Fixtures.deps.json
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\bin\Debug\netcoreapp3.1\PaymentGateway.Fixtures.dll
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\bin\Debug\netcoreapp3.1\PaymentGateway.Domain.dll
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\bin\Debug\netcoreapp3.1\PaymentGateway.Infrastructure.dll
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\bin\Debug\netcoreapp3.1\PaymentGateway.Infrastructure.pdb
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\bin\Debug\netcoreapp3.1\PaymentGateway.Domain.pdb
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\obj\Debug\netcoreapp3.1\PaymentGateway.Fixtures.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\obj\Debug\netcoreapp3.1\PaymentGateway.Fixtures.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\obj\Debug\netcoreapp3.1\PaymentGateway.Fixtures.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\bin\Debug\netcoreapp3.1\PaymentGateway.Fixtures.pdb
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\obj\Debug\netcoreapp3.1\PaymentGateway.Fixtures.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\obj\Debug\netcoreapp3.1\PaymentGateway.Fixtures.dll
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\obj\Debug\netcoreapp3.1\PaymentGateway.Fixtures.pdb
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\PaymentGateway.Fixtures\obj\Debug\netcoreapp3.1\PaymentGateway.Fixtures.csprojAssemblyReference.cache

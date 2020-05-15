@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments.Api\bin\Debug\netcoreapp3.1\DynamicsPayments.Api.deps.json
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments.Api\bin\Debug\netcoreapp3.1\DynamicsPayments.Api.dll
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments.Api\bin\Debug\netcoreapp3.1\DynamicsPayments.Api.pdb
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments.Api\obj\Debug\netcoreapp3.1\DynamicsPayments.Api.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments.Api\obj\Debug\netcoreapp3.1\DynamicsPayments.Api.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments.Api\obj\Debug\netcoreapp3.1\DynamicsPayments.Api.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments.Api\obj\Debug\netcoreapp3.1\DynamicsPayments.Api.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments.Api\obj\Debug\netcoreapp3.1\DynamicsPayments.Api.dll
+C:\Users\Gabriel\Desktop\MultiSystems\PaymentGateway\DynamicsPayments.Api\obj\Debug\netcoreapp3.1\DynamicsPayments.Api.pdb
